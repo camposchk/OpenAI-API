@@ -7,7 +7,7 @@ const OpenAIComponent = () => {
   const [error, setError] = useState(null);
 
 const fetchDataFromOpenAI = async () => {
-  const apiKey = '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';
+  const apiKey = '###########################################';
   const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
   try {
